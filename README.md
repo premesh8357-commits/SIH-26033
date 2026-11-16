@@ -144,34 +144,8 @@ C. Route Optimization Model
 - Application: Reduces unnecessary travel and combines deliveries efficiently.
 2.3 Methodology and process for implementation
 Proposed system workflow
-Farmer / FPO Registration
 
-Profile, location and verification
-
-
-Produce Listing
-
-Crop, quantity, quality, harvest date and price
-
-
-AI Processing Engine
-
-Demand prediction • Price recommendation • Buyer matching
-
-
-Digital Marketplace
-
-Consumers • Retailers • Restaurants • Wholesalers
-
-
-Order Aggregation and Logistics
-
-Order consolidation and optimized delivery routes
-
-
-Delivery and Payment
-
-Order tracking, delivery confirmation and payment records
+<img width="805" height="716" alt="Screenshot 2026-11-16 151524" src="https://github.com/user-attachments/assets/4e62b643-707e-4257-9fe2-e23aa3787d48" />
 
 
 Implementation phases
