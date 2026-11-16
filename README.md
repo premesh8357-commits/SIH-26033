@@ -142,20 +142,23 @@ C. Route Optimization Model
 - Algorithm: Vehicle Routing Problem (VRP) using Google OR-Tools.
 - Output: Optimized delivery sequence and estimated transportation requirements.
 - Application: Reduces unnecessary travel and combines deliveries efficiently.
+
 2.3 Methodology and process for implementation
 Proposed system workflow
 
 <img width="805" height="716" alt="Screenshot 2026-11-16 151524" src="https://github.com/user-attachments/assets/4e62b643-707e-4257-9fe2-e23aa3787d48" />
 
 
-Implementation phases
+Implementation phases:
+
 Phase	Development activity
-Phase 1	User registration and authentication
-Phase 2	Farmer and buyer dashboards
-Phase 3	Agricultural product listing and marketplace
-Phase 4	Demand and price prediction models
-Phase 5	Order aggregation and route optimization
-Phase 6	Testing, integration and deployment
+
+Phase 1-User registration and authentication
+Phase 2-Farmer and buyer dashboards
+Phase 3-Agricultural product listing and marketplace
+Phase 4-Demand and price prediction models
+Phase 5-Order aggregation and route optimization
+Phase 6-Testing, integration and deployment
 
 2.4 Working prototype
 For the initial SIH prototype, we intend to demonstrate:
